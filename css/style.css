@@ -2176,13 +2176,13 @@ text-align: center;
 
 
 .contact .main_form {
-     background: #fff;
+     background: rgb(231, 231, 231);
    
     padding: 40px;
 } 
 
 .form-control {
-     border: #ffc221 solid 2px;
+     border: #23c40d solid 2px;
      border-radius: inherit;
      margin-bottom: 30px;
      padding: 13px 20px;
